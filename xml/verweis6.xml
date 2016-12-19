@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Toteninsel</title>
+            <author>Gerhard Meier</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>Intertextualität in Gerhard Meiers "Toteninsel"
+               <date>20.12.2016</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>Intertextualität in Gerhard Meiers "Toteninsel"</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Verweis6</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Simone Kuster/Felicitas Senoner</name>
+               <date>16.12.2016</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <hi rend="color(#000000)">Da gebe es zum Beispiel von Jozef Lurka, der in Holz die Frohbotschaft verkünde, dabei in schlichter Frömmigkeit theologische Kühnheiten hervorbringend, eine </hi>
+            <hi rend="color(#000000)italic">Eva mit Forelle im Paradies</hi>
+            <hi rend="color(#000000)">, womit Lurka aber nicht auf das altchristliche Fischsymbol für Christus habe hinweisen wollen, sondern ihm sei es darum gegangen, das Paradiesische des Paradieses anschaulich zu machen: Wenn sich ein Löwe streicheln lasse, das sei noch nichts, aber eine Forelle – wo je, seit dem Sündenfall, habe eine Forelle sich streicheln lassen?</hi>
+         </p>
+      </body>
+   </text>
+</TEI>

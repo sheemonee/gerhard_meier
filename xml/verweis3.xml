@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Toteninsel</title>
+            <author>Gerhard Meier</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>Intertextualität in Gerhard Meiers "Toteninsel"
+               <date>20.12.2016</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>Intertextualität in Gerhard Meiers "Toteninsel"</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Verweis3</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Simone Kuster/Felicitas Senoner</name>
+               <date>16.12.2016</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <hi rend="color(#000000)">Der ständige Zustrom neuer Bildwerke erzwinge immer neue, technisch ausgeklügeltere platznutzende Präsentation, so dass sich dann von dahinter und darunter immer noch etwas hervorzaubern lasse.</hi>
+         </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,125 @@
+#image {
+    position: relative;
+    width: 2352px;
+    height: 3214px;
+    background-image: url(images/image00002.jpg);
+}
+
+#map-part1 {
+    position: absolute;
+    top: 290px;
+    left: 50px;
+    width: 600px;
+    height: 280px;
+    background-color: rgb(250,172,88);
+    opacity: 0.2;
+    filter: alpha(opacity=20);
+}
+
+#map-part1:hover {
+    background-color: rgb(250,172,88);
+    opacity: 0.5;
+    filter: alpha(opacity=20);
+}
+
+#map-part2 {
+    position: absolute;
+    top: 778px;
+    left: 50px;
+    width: 354px;
+    height: 227px;
+    background-color: rgb(250,172,88);
+    opacity: 0.2;
+    filter: alpha(opacity=20);
+}
+
+#map-part2:hover {
+    background-color: rgb(250,172,88);
+    opacity: 0.5;
+    filter: alpha(opacity=20);
+}
+
+#map-part3 {
+    position: absolute;
+    top: 990px;
+    left: 50px;
+    width: 354px;
+    height: 170px;
+    background-color: rgb(250,172,88);
+    opacity: 0.2;
+    filter: alpha(opacity=20);
+}
+
+#map-part3:hover {
+    background-color: rgb(250,172,88);
+    opacity: 0.5;
+    filter: alpha(opacity=20);
+}
+
+#map-part4 {
+    position: absolute;
+    top: 1140px;
+    left: 50px;
+    width: 354px;
+    height: 265px;
+    background-color: rgb(250,172,88);
+    opacity: 0.2;
+    filter: alpha(opacity=20);
+}
+
+#map-part4:hover {
+    background-color: rgb(250,172,88);
+    opacity: 0.5;
+    filter: alpha(opacity=20);
+}
+
+#map-part5 {
+    position: absolute;
+    top: 140px;
+    left: 775px;
+    width: 1485px;
+    height: 1105px;
+    background-color: rgb(250,172,88);
+    opacity: 0.2;
+    filter: alpha(opacity=20);
+}
+
+#map-part5:hover {
+    background-color: rgb(250,172,88);
+    opacity: 0.5;
+    filter: alpha(opacity=20);
+}
+
+#map-part6 {
+    position: absolute;
+    top: 2670px;
+    left: 420px;
+    width: 354px;
+    height: 430px;
+    background-color: rgb(250,172,88);
+    opacity: 0.2;
+    filter: alpha(opacity=20);
+}
+
+#map-part6:hover {
+    background-color: rgb(250,172,88);
+    opacity: 0.5;
+    filter: alpha(opacity=20);
+}
+
+#map-part7 {
+    position: absolute;
+    top: 2150px;
+    left: 775px;
+    width: 1485px;
+    height: 950px;
+    background-color: rgb(250,172,88);
+    opacity: 0.2;
+    filter: alpha(opacity=20);
+}
+
+#map-part7:hover {
+    background-color: rgb(250,172,88);
+    opacity: 0.5;
+    filter: alpha(opacity=20);
+}

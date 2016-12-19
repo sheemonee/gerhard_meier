@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Toteninsel</title>
+            <author>Gerhard Meier</name>
+         </titleStmt>
+         <editionStmt>
+            <edition>Intertextualität in Gerhard Meiers "Toteninsel"
+               <date>20.12.2016</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>Intertextualität in Gerhard Meiers "Toteninsel"</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Verweis7</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Simone Kuster/Felicitas Senoner</name>
+               <date>16.12.2016</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <hi rend="color(#000000)">Ich hatte im Moment die Heizungsnische vor Augen, wo unter dem Radiator Lenin, Abendmahl und Heilige Familie koexistieren, holzgeschnitzt, und dachte daran, dass das kleine Haus an der Ulica Dabrowiecka längst kein Wohnhaus mehr sei mit einer Privatsammlung drin, sondern ein ausgewachsenes Museum, in dem erstaunlicherweise auch noch eine Familie wohne, die sich mit dem Lebensraum bescheide, den ihr die rund siebentausend Bildwerke noch beliessen, die alle Winkel erobert hätten, Speisekammer und Toilette inbegriffen. </hi>
+         </p>
+      </body>
+   </text>
+</TEI>

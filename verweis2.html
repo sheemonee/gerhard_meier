@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>verweis2.html</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="commentary.js"></script>
+  </head>
+
+  <body>
+  <div id="wrap">
+
+    <nav class="navbar navbar-inverse" role="navigation">
+      <div class="container navbar-center">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="#">Toteninsel</a>
+        </div>
+        <div class="nav navbar-center">
+        <ul class="nav navbar-nav">
+          <li class="active"><a href="index.html"> <span class="glyphicon glyphicon-home"></span></a></li>
+          <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Intertextualität <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="faz280.html">Frankfurter Allgemeine Zeitung Nr.280 </a></li>
+              <li><a href="faz344.html">Frankfurter Allgemeine Zeitung Nr.344</a></li>
+            </ul>
+          </li>
+          <li class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Analyse
+            <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="verweis1.html">Textstelle 1-S.36</a></li>
+              <li><a href="verweis2.html">Textstelle 2-S.116</a></li>
+              <li><a href="verweis3.html">Textstelle 3-S.36</a></li>
+              <li><a href="verweis4.html">Textstelle 4-S.36</a></li>
+              <li><a href="verweis5.html">Textstelle 5-S.36</a></li>
+              <li><a href="verweis6.html">Textstelle 6-S.36</a></li>
+              <li><a href="verweis7.html">Textstelle 7-S.36</a></li>
+            </ul>
+          </li>
+          <li class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Projekt
+            <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="project.html">Projektbeschrieb </a></li>
+              <li><a href="team.html">Kontakt </a></li>
+              <li><a href="copyright.html">Urheberrecht </a></li>
+            </ul>
+          </li>
+        </ul>
+        </div>
+      </div>
+    </nav>
+
+    <main class="container" id"main">
+      <article>
+        <h3 style="text-align:center; background-color: #FAAC58">Vergleich Zeitungsausschnitt und Romantext (S.116)</h3>
+      </article>
+
+            <div class="row">
+            <article>
+              <div class="col-md-6 text-left">
+              <div id="source">
+                <p><img class="img-responsive" src="images/verweis2.jpg" alt="Zeitungsausschnitt2" style="float:left"></p>
+              </div>
+
+              </div>
+
+            </article>
+
+            <article>
+              <div class="col-md-6 text-justify">
+                <div id="novel">
+                  <p>«Ich hatte im Moment die Heizungsnische vor Augen, wo unter dem Radiator Lenin, Abendmahl und Heilige Familie koexistieren, holzgeschnitzt, und dachte daran, dass das kleine Haus an der Ulica Dabrowiecka längst kein Wohnhaus mehr sei mit einer Privatsammlung drin, sondern ein ausgewachsenes Museum, in dem erstaunlicherweise auch noch eine Familie wohne, die sich mit dem Lebensraum bescheide, den ihr die rund siebentausend <span class="highlight bold">Bildwerke</span> noch <span class="highlight bold">beliessen</span>, die alle Winkel erobert hätten, Speisekammer und <span class="highlight bold">Toilette</span> inbegriffen.»</p>
+              </div>
+              <div class="text-right">
+                <a href="faz280.html" class="btn btn-default" role="button">Digitalisat </a>
+                <a href="#" class="btn btn-warning" role="button" id="btn-comment">Kommentar</a>
+              </div>
+              <div id="commentary" class="hidden">
+                <p>In freier Zusammenstellung werden hier verschiedene Teile des Artikels von Meier frei zu einem erinnernden Gedankengang Bindschädlers arrangiert. Wie bereits angeführt, ist es ein Charakteristikum, dass solche gerafften Zitate über den Roman verteilt werden, dass sie sich wiederholen und sich dabei aber stets leicht verändern. <br>So wird hier in der zweiten Satzhälfte eine Stelle aus dem Anfang des Artikels zitiert, die in den vorherigen Exzerpten noch nicht angeführt worden ist. Das „Klo“ im Artikel ist von Meier mit „Toilette“ ersetzt worden um den Erzählduktus des Romans nicht zu brechen.</p>
+                <h4 style="text-align:center; background-color: #FAAC58">Linguistische Operationen</h4>
+                <p>Bilder und Plastiken &#8594 Bildwerke</p>
+                <p>lassen &#8594 beliessen</p>
+                <p>Klo &#8594 Toilette</p>
+              </div>
+            </article>
+            </div>
+          </div>
+
+    </main>
+
+    <div class="push" id="footer">
+      <div id="footermargin" class="container-fluid"> <!-- the class=container is for Bootstrap to tell there are Columns and Rows now -->
+        <p class="text-muted credit">Urheberrecht: Zyytglogge Verlag, die Familie Meier und das Projekt &copy;. Veröffentlicht unter <a id="interlinks" href="https://creativecommons.org/licenses/by/3.0/">Creative Commons CC-BY.</p> <!-- & has to be written &amp, otherwise its gonna make some crazy copyright signs and stuff -->
+      </div>
+    </div>
+
+  </div>
+  </body>
+
+</html>
