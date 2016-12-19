@@ -2,7 +2,7 @@
     position: relative;
     width: 2352px;
     height: 3214px;
-    background-image: url(images/image00002.jpg);
+    background-image: url(images/Image00002.jpg);
 }
 
 #map-part1 {
@@ -10,7 +10,7 @@
     top: 290px;
     left: 50px;
     width: 600px;
-    height: 280px;
+    height: 380px;
     background-color: rgb(250,172,88);
     opacity: 0.2;
     filter: alpha(opacity=20);
